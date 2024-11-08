@@ -23,13 +23,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![card](./screenshot.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/blog-preview-card-uZdJ8NLL8z)
+- Live Site URL: [Blog Preview Live Site](https://airme1.github.io/blog-preview-card/)
 
 ## My process
 - I defined the HTML structure and styled the CSS afterwards
